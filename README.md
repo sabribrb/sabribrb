@@ -9,7 +9,7 @@
   ### ------------------------------------------ Back-End Programmer/Student -----------------------------------------
   ***Currently learning:* Python**
   
-  ***Additional knowledge* in: C, HTML5/CSS3**
+  ***Additional knowledge* in: C, MySQL, HTML5/CSS3**
 
 
   
