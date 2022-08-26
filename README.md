@@ -7,9 +7,9 @@
 </p>
 
   ### ------------------------------------------ Back-End Programmer/Student -----------------------------------------
-  ***Currently learning:* Python**
+  ***Currently learning:* Java**
   
-  ***Additional knowledge* in: C, MySQL, HTML5/CSS3**
+  ***Additional knowledge* in: C, Python (Basic), MySQL, HTML5/CSS3**
 
 
   
